@@ -1,0 +1,5 @@
+com\yjn\service\IUserService.class
+com\yjn\test\Test.class
+com\yjn\mapper\UserMapper.class
+com\yjn\pojo\User.class
+com\yjn\service\impl\UserServiceImpl.class
